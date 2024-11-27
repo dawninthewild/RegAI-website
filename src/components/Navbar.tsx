@@ -10,9 +10,9 @@ export default function Navbar() {
         <div className="flex justify-between h-16 items-center">
           <div className="flex items-center">
             <Sprout className="h-8 w-8 text-green-600" />
-            <span className="ml-2 text-xl font-bold text-gfay-900">RegAI</span>
+            <span className="ml-2 text-xl font-bold text-gfay-900">Regsight.ai</span>
           </div>
-          
+
           <div className="hidden md:flex items-center space-x-8">
             <a href="#features" className="text-gray-600 hover:text-green-600 transition-colors">Features</a>
             <a href="#benefits" className="text-gray-600 hover:text-green-600 transition-colors">Benefits</a>

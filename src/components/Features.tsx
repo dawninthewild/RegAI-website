@@ -15,7 +15,7 @@ const features = [
   {
     icon: Clock,
     title: 'Time Savings',
-    description: 'Reduce regulatory processing time by up to 80% with our streamlined approach.'
+    description: 'Reduce regulatory processing time by up to 60% with our streamlined approach.'
   },
   {
     icon: FileCheck,
