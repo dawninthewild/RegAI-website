@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="min-h-screen bg-white">
       <Navbar />
-      
+
       {/* Hero Section */}
       <div className="relative pt-16 overflow-hidden">
         <div className="relative">
@@ -19,7 +19,7 @@ function App() {
               <span className="block text-green-600 xl:inline">Compliance with AI</span>
             </h1>
             <p className="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">
-              Transform your regulatory compliance process with our AI-powered platform. 
+              Transform your regulatory compliance process with our AI-powered platform.
               Specifically designed for agrichemical and food industry leaders.
             </p>
             <div className="mt-10 flex justify-center">
@@ -27,15 +27,15 @@ function App() {
                 Get Early Access <ArrowRight className="ml-2 h-5 w-5" />
               </a>
             </div>
-            
+
             <div className="mt-12 flex flex-wrap justify-center gap-4 text-sm text-gray-600">
               <div className="flex items-center">
                 <CheckCircle2 className="h-5 w-5 text-green-500 mr-2" />
-                99.9% Accuracy
+                25% Cost Reduction
               </div>
               <div className="flex items-center">
                 <CheckCircle2 className="h-5 w-5 text-green-500 mr-2" />
-                80% Faster Processing
+                60% Faster Processing
               </div>
               <div className="flex items-center">
                 <CheckCircle2 className="h-5 w-5 text-green-500 mr-2" />
@@ -44,7 +44,7 @@ function App() {
             </div>
           </div>
         </div>
-        
+
         {/* Background Pattern */}
         <div className="absolute top-0 inset-x-0 h-[37rem] bg-gradient-to-b from-green-50 to-transparent -z-10" />
       </div>
